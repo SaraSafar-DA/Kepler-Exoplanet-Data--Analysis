@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project applies Data Analysis and Machine Learning to classify cosmic objects observed by NASA's Kepler Space Telescope. The main goal is to predict whether an observed object is a confirmed planet (`CONFIRMED`) or a false positive signal (`FALSE POSITIVE`).
 
-This system simulates the automated pipeline used by research institutions like KACST to process large-scale astronomical data.
+
 
 ## 🛠️ Tech Stack & Tools
 - Language: Python
