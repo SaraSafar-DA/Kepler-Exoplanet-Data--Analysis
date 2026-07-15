@@ -5,17 +5,17 @@ This project applies Data Analysis and Machine Learning to classify cosmic objec
 
 
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 - Language: Python
 - Environment: Google Colab
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn (Random Forest Classifier)
-- BI Tools: Power BI (Interactive Dashboard)
 
-## 📊 Key Insights & Results
+
+##  Key Insights & Results
 - Model Accuracy: Over 95% in predicting planet validity.
 - Top Feature: The Centroid Offset Flag and Planetary Radius were found to be the most critical physical factors in distinguishing real planets from fake signals.
 
-## 🚀 How to Run
+##  How to Run
 1. Open the .ipynb file in Google Colab.
 2. Upload the cumulative.csv dataset from Kaggle.
 3. Run all cells to see the classification report and charts.
